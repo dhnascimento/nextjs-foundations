@@ -1,2 +1,2 @@
-# nextjs-foundations
+# Learning Next.js
 Next.js tutorial
